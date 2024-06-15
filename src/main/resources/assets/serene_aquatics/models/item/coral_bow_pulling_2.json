@@ -1,0 +1,6 @@
+{
+  "parent": "serene_aquatics:item/coral_bow",
+  "textures": {
+    "layer0": "serene_aquatics:item/coral_bow_pulling_2"
+  }
+}
