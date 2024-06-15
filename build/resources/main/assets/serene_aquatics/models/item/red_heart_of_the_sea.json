@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "serene_aquatics:item/red_heart_of_the_sea"
+  }
+}

@@ -1,0 +1,15 @@
+{
+    "parent": "builtin/entity",
+    "gui_light": "front",
+    "textures": {
+        "particle": "serene_aquatics:entity/trident_test"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "throwing": 1
+            },
+            "model": "serene_aquatics:entity/trident_test_throwing"
+        }
+    ]
+}

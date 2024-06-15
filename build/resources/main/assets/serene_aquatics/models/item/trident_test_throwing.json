@@ -1,0 +1,12 @@
+{
+    "parent": "builtin/entity",
+    "gui_light": "front",
+    "textures": {
+        "particle": "serene_aquatics:entity/trident_test"
+    },
+        "ground": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 4, 4, 2],
+            "scale":[ 0.25, 0.25, 0.25]
+        }
+    }
