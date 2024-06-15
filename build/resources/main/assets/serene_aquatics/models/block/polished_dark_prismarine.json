@@ -1,6 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "serene_aquatics:block/polished_dark_prismarine"
-  }
-}
